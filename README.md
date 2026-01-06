@@ -30,3 +30,11 @@ Il permet aux équipes commerciales de comprendre les tendances, identifier les 
 - Total commandes annulées
 - Montant commandes annulées
 - Pourcentage commandes annulées
+
+----
+
+## 🚀 Technologies utilisées :
+
+- Power BI pour la visualisation et le reporting
+- Power Query pour le nettoyage et la transformation des données
+- DAX pour les formules et indicateurs personnalisés
